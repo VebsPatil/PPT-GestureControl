@@ -8,10 +8,10 @@ This project allows you to control PowerPoint presentations using hand gestures.
 
 Run the following command to install the required dependencies:
 
-'''sh
+'''bash
 pip install opencv-python mediapipe pyautogui pillow pywin32
 
-'''sh
+'''bash
 
 ## 👨‍💻 Developer Information
 - **Developed by**: Vaibhav Patil
