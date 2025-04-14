@@ -1,3 +1,15 @@
+# PowerPoint Gesture Control System
+# 
+# Developed by: Vaibhav Patil
+# Contact: vaibhavbpatil1210@gmail.com
+# Description: This script controls PowerPoint presentations using hand gestures.
+# Libraries used: OpenCV, Mediapipe, PyAutoGUI, Pillow, pywin32
+# 
+# The system detects hand gestures to perform actions such as navigating through slides,
+# controlling the pointer, and drawing on the slides during a presentation.
+
+
+
 import win32com.client
 import cv2
 import os
@@ -160,6 +172,6 @@ start_button.pack(pady=10)
 camera_label = tk.Label(root)
 camera_label.pack()
 
-footer_label = tk.Label(root, text="Developed by Yash Gupta Contact: guptayash2005.yg@gmail.com", font=("Arial", 10))
+footer_label = tk.Label(root, text="Developed by Vaibhav Patil Contact: vaibhavbpatil1210@gmail.com", font=("Arial", 10))
 footer_label.pack(side="bottom", pady=5)
 root.mainloop()
