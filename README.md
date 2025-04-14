@@ -12,6 +12,6 @@ Run the following command to install the required dependencies:
 pip install opencv-python mediapipe pyautogui pillow pywin32
 
 
-##👨‍💻 Developer Information
--**Developed by**: Vaibhav Patil
+## 👨‍💻 Developer Information
+- **Developed by**: Vaibhav Patil
 - **Contact**: vaibhavbpatil1210@gmail.com
